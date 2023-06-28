@@ -40,4 +40,4 @@ Video yüzünü değiştirmek için ayrıca ffmpeg'i düzgün bir şekilde kurmu
 - [ffmpeg](https://ffmpeg.org/): Video ile ilgili işlemleri kolaylaştırmak için
 - [deepinsight](https://github.com/deepinsight): kullanılan veri modeli için [insightface](https://github.com/deepinsight/insightface).
 - Ömer Faruk Kızrak: Yazılımın geliştirilme sürecinde yüzünü ve bedenini bizler için feda ettiği için.
-- Burak Can Bozlurt: Hiçbir sikim yapmadı ama sırf ona sövmek için burada yer veriyorum, amınakodumun kaşarlı su böreği.
+- Burak Can Bozkurt: Hiçbir sikim yapmadı ama sırf ona sövmek için burada yer veriyorum, amınakodumun kaşarlı su böreği.
