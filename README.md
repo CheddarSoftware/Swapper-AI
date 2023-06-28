@@ -18,7 +18,7 @@ Kullanımı kolay bir GUI ile eğitim gerektirmeden fotoğraf ve videolar için 
 
 ### Kurulum
 
-> Windows için [Visual Studio](https://visualstudio.microsoft.com/tr/downloads/) indirip yüklemeniz gerekir. Kurulum sırasında en azından C++ paketini ve Python'u eklediğinizden emin olun.
+> Windows için [Visual Studio](https://visualstudio.microsoft.com/tr/downloads/) indirip yüklemeniz gerekir. Kurulum sırasında C++ paketini ve Python'u eklediğinizden emin olun.
 
 Buna ek olarak, tek tıklamayla yükleyiciyi kullanmanız yeterlidir. Bu, her şeyi kullanışlı bir conda ortamında indirip yükleyecektir.
 
